@@ -5,10 +5,10 @@ const Site = () => {
     <section>
         <div className='flex items-center flex-col space-y-2 justify-center'>
             <h1 className='text-2xl md:text-3xl lg:text-4xl font-extrabold'>
-                Stat Tracker
+                Game Log Tracker
             </h1>
             <p className='leading-relaxed text-grey-300 font-extralight tracking-tight'>
-                The home of little league stat tracker
+                The home of little league game log tracker
             </p>
         </div>
     </section>
